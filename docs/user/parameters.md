@@ -47,8 +47,8 @@ There are multiple use cases from the users perspective that dictate what parame
 | `--pulp-database-name` | Name of the Pulp database | `--foreman-proxy-content-pulpcore-postgresql-db-name` |
 | `--pulp-database-user` | Owner of the Pulp database | `--foreman-proxy-content-pulpcore-postgresql-user` |
 | `--pulp-database-password` | Password for Pulp database | `--foreman-proxy-content-pulpcore-postgresql-password` |
-| `--foreman-initial-admin-username` | Initial username for the admin user | `--foreman-initial-admin-username` |
-| `--foreman-initial-admin-password` | Initial password for the admin user | `--foreman-initial-admin-password` |
+| `--initial-admin-username` | Initial username for the admin user | `--foreman-initial-admin-username` |
+| `--initial-admin-password` | Initial password for the admin user | `--foreman-initial-admin-password` |
 | `--initial-organization` | Name of an initial organization | `--foreman-initial-organization` |
 | `--initial-location` | Name of an initial location | `--foreman-initial-location` |
 | `--foreman-puma-workers` | Number of workers for Puma | `--foreman-foreman-service-puma-workers` |
