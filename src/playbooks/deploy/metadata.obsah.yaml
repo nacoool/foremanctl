@@ -5,8 +5,10 @@ help: |
 variables:
   foreman_initial_admin_username:
     help: Initial username for the admin user.
+    parameter: --initial-admin-username
   foreman_initial_admin_password:
     help: Initial password for the admin user.
+    parameter: --initial-admin-password
   foreman_initial_organization:
     help: Name of an initial organization.
     parameter: --initial-organization
